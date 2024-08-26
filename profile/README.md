@@ -16,6 +16,7 @@
 | -------- | ------- | ------- |
 | UI | https://github.com/J1-Apps/j1_ui | A collection of common UI components for the J1 Apps. |
 | Environment | https://github.com/J1-Apps/j1_environment | A common environment for the J1 Apps. |
+| Theme | https://github.com/J1-Apps/j1_theme | A common theme class and Flutter builders for the J1 apps. |
 | Logger | https://github.com/J1-Apps/j1_logger | A common event logger for the J1 Apps. |
 | Crash Handler | https://github.com/J1-Apps/j1_crash_handler | A common crash handler for the J1 Apps. |
 | Router | https://github.com/J1-Apps/j1_router | A common router for the J1 Apps. |
