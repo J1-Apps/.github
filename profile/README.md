@@ -6,7 +6,7 @@
 
 | Name | Link | Description | Version |
 | -------- | ------- | ------- | ------- |
-| Github | https://github.com/J1-Apps/.github | The front page of this Github organization. | N//A |
+| Github | https://github.com/J1-Apps/.github | The front page of this Github organization. | N/A |
 | Assets | https://github.com/J1-Apps/assets | A collection of common assets for the J1 Apps. | N/A |
 | Linting | https://github.com/J1-Apps/j1_lints | A collection of common linting rules for the J1 Apps. | v1.0.2 |
 
