@@ -4,7 +4,7 @@
 
 ### Common
 
-| Name | Link | Description | Versions |
+| Name | Link | Description | Version |
 | -------- | ------- | ------- | ------- |
 | Github | https://github.com/J1-Apps/.github | The front page of this Github organization. | N//A |
 | Assets | https://github.com/J1-Apps/assets | A collection of common assets for the J1 Apps. | N/A |
@@ -12,7 +12,7 @@
 
 ### Flutter
 
-| Name | Link | Description | Versions |
+| Name | Link | Description | Version |
 | -------- | ------- | ------- | ------- |
 | UI | https://github.com/J1-Apps/j1_ui | A collection of common UI components for the J1 Apps. | v1.0.8 |
 | Environment | https://github.com/J1-Apps/j1_environment | A common environment for the J1 Apps. | v1.0.1 |
@@ -23,6 +23,6 @@
 
 ### Currency Converter
 
-| Name | Link | Description | Versions |
+| Name | Link | Description | Version |
 | -------- | ------- | ------- | ------- |
 | App | https://github.com/J1-Apps/currency_converter | The Currency Converter app. | v1.0.0 |
