@@ -26,4 +26,3 @@
 | Name | Link | Description | Version |
 | -------- | ------- | ------- | ------- |
 | App | https://github.com/J1-Apps/currency_converter | The Currency Converter app. | v1.0.0 |
-| Firebase | https://github.com/J1-Apps/currency_converter_firebase | The Currency Converter firebase code. | |
