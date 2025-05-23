@@ -21,6 +21,11 @@
 | Router | https://github.com/J1-Apps/j1_core/tree/main/packages/j1_router | A common router for the J1 Apps. | v1.0.0 |
 | Linting | https://github.com/J1-Apps/j1_core/tree/main/packages/j1_lints | A collection of common linting rules for the J1 Apps. | v1.0.0 |
 
+### Aroma
+
+| Name | Link | Description | Version |
+| -------- | ------- | ------- | ------- |
+
 ### Currency Converter
 
 | Name | Link | Description | Version |
