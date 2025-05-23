@@ -25,9 +25,10 @@
 
 | Name | Link | Description | Version |
 | -------- | ------- | ------- | ------- |
+| Mobile App | https://github.com/J1-Apps/aroma_mobile | The Aroma app. | v1.0.0 |
 
 ### Currency Converter
 
 | Name | Link | Description | Version |
 | -------- | ------- | ------- | ------- |
-| App | https://github.com/J1-Apps/currency_converter | The Currency Converter app. | v1.0.0 |
+| Mobile App | https://github.com/J1-Apps/currency_converter | The Currency Converter app. | v1.0.0 |
