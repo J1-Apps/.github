@@ -13,8 +13,8 @@
 
 | Name | Link | Description | Version |
 | -------- | ------- | ------- | ------- |
-| Core | https://github.com/J1-Apps/j1_core | Common components for the J1 Apps. | v1.0.0 |
-| Core Firebase | https://github.com/J1-Apps/j1_core_firebase | Common Firebase components for the J1 Apps. | v1.0.0 |
+| Core Base | https://github.com/J1-Apps/j1_core/tree/main/packages/j1_core_base | Common components for the J1 Apps. | v1.0.0 |
+| Core Firebase | https://github.com/J1-Apps/j1_core/tree/main/packages/j1_core_firebase | Common Firebase components for the J1 Apps. | v1.0.0 |
 
 ### Aroma
 
